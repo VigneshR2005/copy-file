@@ -19,8 +19,8 @@ close the second file
 ## PROGRAM:
 ```
 python program for copying the contents from one file to another file.
-Developed by: R. Joyce Beulah
-RegisterNumber: 22009334
+Developed by: AMURTHA VAAHINI KN
+RegisterNumber: 22009070
 f1=open("sample1.txt","r")
 f2=open("sample2.txt","a")
 for line in f1:
@@ -29,8 +29,8 @@ f1.close()
 f2.close()
 ```
 ### OUTPUT:
-![sample text](/5%20inpt.png)
-![output](/5%20otpt.png)
+![](copy.png)
+![](copy1.png)
 
 ## RESULT:
 Thus the program is written to copy the contents from one file to another file.
