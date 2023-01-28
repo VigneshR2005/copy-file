@@ -19,8 +19,8 @@ close the second file
 ## PROGRAM:
 ```
 python program for copying the contents from one file to another file.
-Developed by: AMURTHA VAAHINI KN
-RegisterNumber: 22009070
+Developed by: Adhithya M R
+RegisterNumber: 22002941
 f1=open("sample1.txt","r")
 f2=open("sample2.txt","a")
 for line in f1:
